@@ -1,1 +1,1 @@
-**From Charts to Hearts: Using Data Science to Boost mrld's Spotify Presence**
+**from Charts to Hearts: using Data Science to Boost mrld's Spotify Presence**
