@@ -1,4 +1,4 @@
-**from Charts to Hearts: using Data Science to Boost mrld's Spotify Presence**
+**From Charts to Hearts: using Data Science to Boost mrld's Spotify Presence**
 
 In the realm of music, Spotify streams hold immense significance, serving as a key metric to gauge song reception. Securing a spot in the top 200 chart signifies not just accomplishment but also provides valuable insights into current trends, guiding artists and record labels towards what resonates with the audience.
 
